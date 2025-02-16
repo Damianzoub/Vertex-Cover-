@@ -20,7 +20,7 @@ This project explores solving the **Vertex Cover** problem—an NP-hard combinat
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Damianzoub/Verte-Cover.git
+   git clone https://github.com/Damianzoub/Verte-Cover-.git
    ```
 2. **Create a virtual environment (optional but recommended)**  
    ```bash
